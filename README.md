@@ -5,7 +5,7 @@ An Android version of the magnetic stone table-top game.
 ## How to play
 
 - The 24 magnets are divided evenly among the players.
-- Take turns dropping one magnet inside the yellow rope (touch, drag to aim, let go).
+- Take turns dropping one magnet inside the flower ring (touch, drag to aim, let go).
 - Magnets that are too close pull each other in. If any magnets snap together on your turn, you take all of them back.
 - The first player to place all of their magnets wins.
 
